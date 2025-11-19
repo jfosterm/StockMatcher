@@ -1,0 +1,2 @@
+# StockMatcher
+Stock matcher for exploring stocks by "Swiping" on a given stock. Included is an algorithm for sorting stocks by sentiment analysis and momentum analysis. API used: FMP, and Newsapi.org.
